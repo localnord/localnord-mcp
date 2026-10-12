@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "localnord": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://app.localnord.io/api/mcp/mcp"]
+    }
+  }
+}
